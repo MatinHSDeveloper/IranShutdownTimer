@@ -78,7 +78,7 @@ IranShutdownTimer/
 ## توسعه‌دهنده
 ***Matin***
 
-***[Website](https://matin-technology.ir/)***
+***[Website](https://matinhajiseftjani.ir/)***
 ***[GitHub](https://github.com/matinhajiseftjani400)***
 ***[E-mail](mailto:matin@hajiseftjani.ir)***
 
@@ -90,7 +90,7 @@ IranShutdownTimer/
 و همچنین همه ایرانی‌های دوست‌داشتنی که همیشه پشت سر هم هستند! 🇮🇷💙
 
 ---
-👨‍💻  Developed By [Matin](http://matin-technology.ir/) For Iranians💙
+👨‍💻  Developed By [Matin](http://matinhajiseftjani.ir/) For Iranians💙
 ---
 ## 💵دونیت
 <a href="https://www.coffeebede.com/matindev"><img class="img-fluid" src="https://coffeebede.com/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
